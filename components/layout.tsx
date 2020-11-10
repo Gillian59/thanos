@@ -17,7 +17,7 @@ export function Layout() {
               <NavDropdown.Item href="../articles/first_article">Ses Origines</NavDropdown.Item>
               <NavDropdown.Item href="../articles/second_article">Pouvoirs</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="/">Retour Page Principale</NavDropdown.Item>
+              <NavDropdown.Item href="../articles/divers">Divers</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
